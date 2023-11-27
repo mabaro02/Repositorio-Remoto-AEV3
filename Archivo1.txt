@@ -1,0 +1,1 @@
+Consolidacion del repositorio local para sincronizarlo y consolidarlo tambien en el repositorio remoto de GitHub.
